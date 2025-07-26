@@ -1,27 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MonThiList>
     <MonThi>
-        <id>1</id>
+        <id>2</id>
+        <maMon>MA007</maMon>
         <tenMon>Toán</tenMon>
     </MonThi>
     <MonThi>
-        <id>2</id>
+        <id>3</id>
+        <maMon>MA074</maMon>
         <tenMon>Văn</tenMon>
     </MonThi>
     <MonThi>
-        <id>3</id>
-        <tenMon>Sử</tenMon>
+        <id>4</id>
+        <maMon>HD027</maMon>
+        <tenMon>Anh</tenMon>
     </MonThi>
     <MonThi>
         <id>5</id>
-        <tenMon>Lý</tenMon>
+        <maMon>HA001</maMon>
+        <tenMon>Hóa</tenMon>
     </MonThi>
     <MonThi>
         <id>6</id>
-        <tenMon>vật lý</tenMon>
+        <maMon>DA128</maMon>
+        <tenMon>Lý</tenMon>
     </MonThi>
     <MonThi>
         <id>7</id>
-        <tenMon>HAHA</tenMon>
+        <maMon>GD012</maMon>
+        <tenMon>Sinh</tenMon>
+    </MonThi>
+    <MonThi>
+        <id>8</id>
+        <maMon>DH019</maMon>
+        <tenMon>Sử</tenMon>
+    </MonThi>
+    <MonThi>
+        <id>9</id>
+        <maMon>DC123</maMon>
+        <tenMon>Địa</tenMon>
+    </MonThi>
+    <MonThi>
+        <id>11</id>
+        <maMon>VA010</maMon>
+        <tenMon>Năng khiếu (Vẽ)</tenMon>
+    </MonThi>
+    <MonThi>
+        <id>12</id>
+        <maMon>CP005</maMon>
+        <tenMon>Năng khiếu (Tin học)</tenMon>
+    </MonThi>
+    <MonThi>
+        <id>13</id>
+        <maMon>TT021</maMon>
+        <tenMon>Năng khiếu (Thể thao)</tenMon>
+    </MonThi>
+    <MonThi>
+        <id>14</id>
+        <maMon>CP123</maMon>
+        <tenMon>GDCD</tenMon>
     </MonThi>
 </MonThiList>
